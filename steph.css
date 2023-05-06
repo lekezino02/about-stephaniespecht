@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+.dropdown-center .btn{
+color:gray;
+justify-content:center;
+}
+
+.dropdown-center .dropdown-menu{
+border:none;
+text-align: center !important;
+transform: translate(-50%, 0);
+}
+
+.dropdown-center .dropdown-menu .dropdown-item{
+color:gray;
+margin:5px;
+}
+
+#site-title{
+text-align:center;
+color:black;
+}
+
+.container h4{
+text-align:center;
+margin:3.5rem;
+}
+
+figure{
+margin-top:5rem;
+}
+
+.text a{
+color:black; 
+text-decoration:none;
+font-weight:light;
+}
+
+
+.title{
+margin-top:1.5rem;
+}
+
+form .row{
+margin-bottom:2em;
+}
+
+form .btn
+{
+margin-top:1.5em;
+border-color:orange;
+color:orange;
+}
+
+#bottomBar{
+text-align:center;
+margin-top:8rem;
+margin-bottom:2rem;
+}
